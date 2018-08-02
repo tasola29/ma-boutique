@@ -47,7 +47,7 @@
     </nav>
   
 	<section class="container ma-section">
-		<h1 class="text-center mt-4 display-4">Bienvenue dans ma boutique</h1>
+		<h1 class="text-center mt-4 display-4">Welcome To All of You</h1>
 	</section>
 	
 		<form>
